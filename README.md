@@ -1,2 +1,2 @@
-# Customer-Churn-Analysis-BI-Storyboard-Python-Power-BI-In-Progress-.
+# Customer-Churn-Analysis-BI-Storyboard-Python-Power-BI-(In-Progress).
 Telecom companies lose significant revenue due to customer churn. Without identifying churn drivers, retention strategies fail. The business project I am solving is analyzing telecom customer churn using **Python-based EDA and machine learning** and converts insights into an interactive Power BI insight storyboard for business decision-making.
